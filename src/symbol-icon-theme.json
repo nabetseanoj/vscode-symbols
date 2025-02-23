@@ -110,6 +110,7 @@
 		"angular": { "iconPath": "./icons/files/angular.svg" },
 		"astro": { "iconPath": "./icons/files/astro.svg" },
 		"audio": { "iconPath": "./icons/files/audio.svg" },
+		"autocad": { "iconPath": "./icons/files/autocad.svg" },
 		"babel": { "iconPath": "./icons/files/babel.svg" },
 		"biome": { "iconPath": "./icons/files/biome.svg" },
 		"bun": { "iconPath": "./icons/files/bun.svg" },
@@ -258,6 +259,7 @@
 		"scala": { "iconPath": "./icons/files/scala.svg" },
 		"severless": { "iconPath": "./icons/files/severless.svg" },
 		"shell": { "iconPath": "./icons/files/shell.svg" },
+		"sketchup": { "iconPath": "./icons/files/sketchup.svg" },
 		"solidity": { "iconPath": "./icons/files/solidity.svg" },
 		"statamic-antlers": { "iconPath": "./icons/files/statamic-antlers.svg" },
 		"storybook": { "iconPath": "./icons/files/storybook.svg" },
@@ -675,7 +677,9 @@
 		"toml": "gear",
 		"v": "v",
 		"nix": "nix",
-		"fc": "func"
+		"fc": "func",
+		"skp": "sketchup",
+		"dwg": "autocad"
 	},
 
 	"fileNames": {

@@ -13,6 +13,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | angular-service       | ![angular-service](files/angular-service.png)               |
 | astro                 | ![astro](files/astro.png)                                   |
 | audio                 | ![audio](files/audio.png)                                   |
+| autocad               | ![autocad](files/autocad.png)                               |
 | babel                 | ![babel](files/babel.png)                                   |
 | biome                 | ![biome](files/biome.png)                                   |
 | brackets-blue         | ![brackets-blue](files/brackets-blue.png)                   |
@@ -257,6 +258,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | scala                 | ![scala](files/scala.png)                                   |
 | severless             | ![severless](files/severless.png)                           |
 | shell                 | ![shell](files/shell.png)                                   |
+| sketchup              | ![sketchup](files/sketchup.png)                             |
 | solidity              | ![solidity](files/solidity.png)                             |
 | statamic-antlers      | ![statamic-antlers](files/statamic-antlers.png)             |
 | storybook             | ![storybook](files/storybook.png)                           |

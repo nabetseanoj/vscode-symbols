@@ -1,9 +1,9 @@
 {
-	"name": "symbols",
-	"displayName": "Symbols",
+	"name": "symbolsnajo",
+	"displayName": "Symbolsnajo",
 	"description": "A simple file icon theme for VS Code",
-	"version": "0.0.22",
-	"publisher": "miguelsolorio",
+	"version": "0.0.26",
+	"publisher": "najostancio",
 	"icon": "symbols.png",
 	"preview": true,
 	"main": "./src/extension.js",
